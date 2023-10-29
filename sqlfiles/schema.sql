@@ -25,3 +25,4 @@ CREATE TABLE employees (
   salary BOOLEAN NOT NULL,
   manager VARCHAR(100) NOT NULL
 );
+
