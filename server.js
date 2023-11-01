@@ -1,3 +1,4 @@
+
 const inquirer = require('inquier');
 
 inquirer
@@ -13,7 +14,7 @@ inquirer
             type: "input",
             name: "role",
             message: "What role would you like to add?"
-            // name, salary, and department for the role and that role is added to the database
+           
         },
         {
             type: "input",
